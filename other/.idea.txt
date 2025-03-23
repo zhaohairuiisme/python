@@ -1,0 +1,21 @@
+目录: G:\github\python\.idea
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/22     20:35                inspectionProfiles
+-a----         2025/3/22     20:34            190 .gitignore
+-a----         2025/3/23     13:05              5 .name
+-a----         2025/3/22     20:35            284 misc.xml
+-a----         2025/3/22     20:35            271 modules.xml
+-a----         2025/3/22     20:35            325 python.iml
+-a----         2025/3/22     20:35            167 vcs.xml
+-a----         2025/3/23     13:21           3408 workspace.xml
+
+
+    目录: G:\github\python\.idea\inspectionProfiles
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/22     20:35            174 profiles_settings.xml

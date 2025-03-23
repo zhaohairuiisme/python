@@ -1,0 +1,93 @@
+目录: G:\github\python\功能大全
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/23     10:07                安装文件
+d-----         2025/3/23      9:59                打包文件（Windows）
+d-----         2025/3/23      9:59                源代码
+-a----         2025/3/23     13:36          16901 介绍.docx
+-a----         2025/3/23     13:37            738 介绍.txt
+
+
+    目录: G:\github\python\功能大全\安装文件
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/23     12:30                python安装包
+
+
+    目录: G:\github\python\功能大全\安装文件\python安装包
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/23     10:06       28604208 python-3.13.2-amd64.exe
+-a----         2025/3/23     12:30         515366 安装说明.docx
+
+
+    目录: G:\github\python\功能大全\打包文件（Windows）
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/22     20:56                build
+d-----         2025/3/22     21:03                dist
+-a----         2025/3/22     21:02            711 1.spec
+
+
+    目录: G:\github\python\功能大全\打包文件（Windows）\build
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/22     21:03                1
+
+
+    目录: G:\github\python\功能大全\打包文件（Windows）\build\1
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/22     20:57                localpycs
+-a----         2025/3/22     21:03       25779599 1.pkg
+-a----         2025/3/22     21:03         156524 Analysis-00.toc
+-a----         2025/3/22     21:03        1397246 base_library.zip
+-a----         2025/3/22     21:03         110616 EXE-00.toc
+-a----         2025/3/22     21:03           3339 generated-865c5ddfb9ac9dc06b9b13ff0f00707b124697c04a9e2ae13e07cbbfa69
+                                                  f820b.ico
+-a----         2025/3/22     21:03         109052 PKG-00.toc
+-a----         2025/3/22     20:57        5205172 PYZ-00.pyz
+-a----         2025/3/22     20:57          48116 PYZ-00.toc
+-a----         2025/3/22     21:03          29631 warn-1.txt
+-a----         2025/3/22     21:03         868961 xref-1.html
+
+
+    目录: G:\github\python\功能大全\打包文件（Windows）\build\1\localpycs
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/22     20:57           4813 pyimod01_archive.pyc
+-a----         2025/3/22     20:57          31848 pyimod02_importers.pyc
+-a----         2025/3/22     20:57           6469 pyimod03_ctypes.pyc
+-a----         2025/3/22     20:57           1698 pyimod04_pywin32.pyc
+-a----         2025/3/22     20:57            305 struct.pyc
+
+
+    目录: G:\github\python\功能大全\打包文件（Windows）\dist
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/22     21:03       26051983 1.exe
+
+
+    目录: G:\github\python\功能大全\源代码
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          2025/3/9     20:27            945 1.png
+-a----         2025/3/22     20:51           2614 1.pyw

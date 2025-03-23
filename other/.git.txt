@@ -1,0 +1,642 @@
+目录: G:\github\python\.git
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/22     20:34                hooks
+d-----         2025/3/22     20:34                info
+d-----         2025/3/22     20:34                logs
+d-----         2025/3/23     11:57                objects
+d-----         2025/3/22     20:34                refs
+-a----         2025/3/23     10:40             19 COMMIT_EDITMSG
+-a----         2025/3/22     20:34            362 config
+-a----         2025/3/22     20:34             73 description
+-a----         2025/3/23     11:57            100 FETCH_HEAD
+-a----         2025/3/22     20:34             21 HEAD
+-a----         2025/3/23     10:40           3900 index
+-a----         2025/3/23     10:40             41 ORIG_HEAD
+
+
+    目录: G:\github\python\.git\hooks
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/22     20:34            478 applypatch-msg.sample
+-a----         2025/3/22     20:34            896 commit-msg.sample
+-a----         2025/3/22     20:34           4726 fsmonitor-watchman.sample
+-a----         2025/3/22     20:34            189 post-update.sample
+-a----         2025/3/22     20:34            424 pre-applypatch.sample
+-a----         2025/3/22     20:34           1649 pre-commit.sample
+-a----         2025/3/22     20:34            416 pre-merge-commit.sample
+-a----         2025/3/22     20:34           1374 pre-push.sample
+-a----         2025/3/22     20:34           4898 pre-rebase.sample
+-a----         2025/3/22     20:34            544 pre-receive.sample
+-a----         2025/3/22     20:34           1492 prepare-commit-msg.sample
+-a----         2025/3/22     20:34           2783 push-to-checkout.sample
+-a----         2025/3/22     20:34           2308 sendemail-validate.sample
+-a----         2025/3/22     20:34           3650 update.sample
+
+
+    目录: G:\github\python\.git\info
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/22     20:34            240 exclude
+
+
+    目录: G:\github\python\.git\logs
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/22     20:34                refs
+-a----         2025/3/23     10:40            989 HEAD
+
+
+    目录: G:\github\python\.git\logs\refs
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/22     20:34                heads
+d-----         2025/3/22     20:34                remotes
+
+
+    目录: G:\github\python\.git\logs\refs\heads
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/23     10:40            989 main
+
+
+    目录: G:\github\python\.git\logs\refs\remotes
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/22     20:34                origin
+
+
+    目录: G:\github\python\.git\logs\refs\remotes\origin
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/23     11:57           1296 HEAD
+-a----         2025/3/23     11:57            817 main
+
+
+    目录: G:\github\python\.git\objects
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/23     10:40                09
+d-----         2025/3/22     20:35                10
+d-----         2025/3/23     10:40                14
+d-----         2025/3/23     10:40                19
+d-----         2025/3/22     20:35                1d
+d-----         2025/3/22     20:34                1f
+d-----         2025/3/23     10:40                2e
+d-----         2025/3/22     20:53                30
+d-----         2025/3/22     20:35                35
+d-----         2025/3/23      9:58                38
+d-----         2025/3/22     20:35                3c
+d-----         2025/3/23     10:40                3f
+d-----         2025/3/22     20:53                41
+d-----         2025/3/23     10:40                44
+d-----         2025/3/23     10:40                46
+d-----         2025/3/23     10:40                4a
+d-----         2025/3/23     10:40                52
+d-----         2025/3/22     20:34                53
+d-----         2025/3/23     10:40                56
+d-----         2025/3/22     20:35                61
+d-----         2025/3/23     10:40                67
+d-----         2025/3/23     10:40                69
+d-----         2025/3/22     20:34                6d
+d-----         2025/3/22     20:53                70
+d-----         2025/3/23     10:40                78
+d-----         2025/3/23     10:40                80
+d-----         2025/3/23     10:40                81
+d-----         2025/3/23      9:58                83
+d-----         2025/3/23     10:40                85
+d-----         2025/3/23      9:58                87
+d-----         2025/3/23     10:40                89
+d-----         2025/3/22     20:34                8c
+d-----         2025/3/22     20:35                93
+d-----         2025/3/22     20:35                97
+d-----         2025/3/23     10:40                a0
+d-----         2025/3/23     10:40                ad
+d-----         2025/3/22     20:34                b0
+d-----         2025/3/23     10:40                b9
+d-----         2025/3/23     10:40                bb
+d-----         2025/3/23     10:40                bf
+d-----         2025/3/22     20:52                c2
+d-----         2025/3/22     20:53                c3
+d-----         2025/3/23     10:40                c5
+d-----         2025/3/23     10:40                ca
+d-----         2025/3/22     20:52                d5
+d-----         2025/3/22     20:35                d8
+d-----         2025/3/23     10:40                db
+d-----         2025/3/22     20:35                de
+d-----         2025/3/23     10:40                e1
+d-----         2025/3/22     20:34                e6
+d-----         2025/3/23     10:40                e8
+d-----         2025/3/23     10:40                eb
+d-----         2025/3/22     20:34                ed
+d-----         2025/3/23     10:40                f5
+d-----         2025/3/23     10:40                f7
+d-----         2025/3/23     10:40                fb
+d-----         2025/3/22     20:34                info
+d-----         2025/3/22     20:34                pack
+
+
+    目录: G:\github\python\.git\objects\09
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40             58 262e58aafef6403f78c8a229c14a41376d6207
+
+
+    目录: G:\github\python\.git\objects\10
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:35            142 5ce2da2d6447d11dfe32bfb846c3d5b199fc99
+
+
+    目录: G:\github\python\.git\objects\14
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            201 af221e713265a33bd9aa6c14196db8484fcb9f
+
+
+    目录: G:\github\python\.git\objects\19
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40           2993 97e5aba22c0feca1d4a3ade64ccadddac66983
+
+
+    目录: G:\github\python\.git\objects\1d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:35            181 3ce46ba0d13183e3244cba5b930b5e27be4c6b
+
+
+    目录: G:\github\python\.git\objects\1f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34            200 9024ae14f5f08039f2b3692b5e52f4696671e2
+
+
+    目录: G:\github\python\.git\objects\2e
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            449 a3b57cc79cb994a1a50469e0f03d3b04c8199a
+
+
+    目录: G:\github\python\.git\objects\30
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:53            159 173f3766ff14f3c31363f43b7ad66d71b99041
+
+
+    目录: G:\github\python\.git\objects\35
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34            182 410cacdc5e87f985c93a96520f5e11a5c822e4
+-ar---         2025/3/22     20:35            140 eb1ddfbbc029bcab630581847471d7f238ec53
+
+
+    目录: G:\github\python\.git\objects\38
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23      9:58            202 a7c9804ba92d087490aff93ecf991bc924f257
+
+
+    目录: G:\github\python\.git\objects\3c
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:35            157 82d434a1ac8955a503f5604ede0d6b69a5ac1e
+
+
+    目录: G:\github\python\.git\objects\3f
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40        5193515 16d30619c33cd205ee287265b110e661df686d
+
+
+    目录: G:\github\python\.git\objects\41
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:53           1328 e5c508da85af8000175ca30162cd89947c8298
+
+
+    目录: G:\github\python\.git\objects\44
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            291 4beb83b845b67bccacd1198394ada2c8ab3e31
+
+
+    目录: G:\github\python\.git\objects\46
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            109 a994211672c488fd81f574f69a31014e91ebc0
+
+
+    目录: G:\github\python\.git\objects\4a
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            111 06997717f818a82470f90f0b7c19bc514ee9ce
+
+
+    目录: G:\github\python\.git\objects\52
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40             44 a275ef2f9db58510aff8d4843ed45401ca54ae
+
+
+    目录: G:\github\python\.git\objects\53
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34             47 b3653620c55df0ca556a59470c8b405eaf5d3e
+
+
+    目录: G:\github\python\.git\objects\56
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40       25789412 a71d462a7819f2a75e2a4f548fb726643964fb
+
+
+    目录: G:\github\python\.git\objects\61
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:35            186 4b3c13ff50a94e96a0e99b602dee020e9fb5ed
+
+
+    目录: G:\github\python\.git\objects\67
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40             49 83c0573cc50e961197bbd35d55e4abe6e90e36
+
+
+    目录: G:\github\python\.git\objects\69
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40       25634479 8a53697a3894a1cfe46d1c18872692bb4c456f
+
+
+    目录: G:\github\python\.git\objects\6d
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34            158 bd3b3badc5d1413e220e9a70cde810eef94225
+
+
+    目录: G:\github\python\.git\objects\70
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:53            258 7f5c98ff60eafe714ac2d23e280e1e5c7b7d69
+
+
+    目录: G:\github\python\.git\objects\78
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40       28335531 dee63386990dadf0a3f1779cb2304ee3783982
+
+
+    目录: G:\github\python\.git\objects\80
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            174 356d3c267321c84a5a578210e38044063ebafc
+
+
+    目录: G:\github\python\.git\objects\81
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40          85042 ec7462c27a94c692971d477cfa5766dbd51161
+
+
+    目录: G:\github\python\.git\objects\83
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23      9:58            827 7b8f6d9ff336062b7594ab6832066ddd643e77
+
+
+    目录: G:\github\python\.git\objects\85
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40          16196 9b69f8642d48e78a4d7499c9782c81ab7420ab
+
+
+    目录: G:\github\python\.git\objects\87
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23      9:58            124 b649cfed9e2d720e19735870fca0d3235ba668
+
+
+    目录: G:\github\python\.git\objects\89
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40           3334 ec534dfa63cca4078de665d08a6773ac98cc4e
+
+
+    目录: G:\github\python\.git\objects\8c
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34             85 3e312c4fabe684055837c82c95f63ad438307f
+
+
+    目录: G:\github\python\.git\objects\93
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:35            258 dbb24c9b4369f9b37611d5c31bf2f185fb9267
+
+
+    目录: G:\github\python\.git\objects\97
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:35             66 824ec9b0149e48c91dce4fee530335b327c686
+
+
+    目录: G:\github\python\.git\objects\a0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40           6297 922fbb82d77fb8a256cf113f3fa9c05ff6d7fc
+
+
+    目录: G:\github\python\.git\objects\ad
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40             83 d23b9ca460d1851a2e824f658ffda86cf630e5
+
+
+    目录: G:\github\python\.git\objects\b0
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34            128 9c645714f479dcf1dfb356fd7c09439e10b47a
+
+
+    目录: G:\github\python\.git\objects\b9
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            374 1f40c20e2c0b9bd52204a833b2c08522b4b8d0
+-ar---         2025/3/23     10:40          15394 bb35ce860364b458e2808647d04d73980c9916
+
+
+    目录: G:\github\python\.git\objects\bb
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40         487269 e678fb99fbb9fd644854138227d750dbfb7e57
+
+
+    目录: G:\github\python\.git\objects\bf
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            251 cba936900c8936b5fd9b55114ea897524de967
+
+
+    目录: G:\github\python\.git\objects\c2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            965 54633f330d4c5042a15daf4d6d02c5233b4848
+
+
+    目录: G:\github\python\.git\objects\c3
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:53             84 55f017b2a1739872a112f17d267830d194d5ca
+
+
+    目录: G:\github\python\.git\objects\c5
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40           2882 21e18b9b5dc9b3c254a350d9c3a7a5c28d491b
+
+
+    目录: G:\github\python\.git\objects\ca
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40           1000 b1f6a6daf3c8cea77e4074a5673a8b336e8558
+
+
+    目录: G:\github\python\.git\objects\d5
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40           1244 7d274672a58303ebda33206f5f94159a9a8eda
+
+
+    目录: G:\github\python\.git\objects\d8
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34            130 43f340d228380d0809b446083dfc066e5de60a
+-ar---         2025/3/22     20:35            231 b3f6cbf0c04e3481a87fcd0d588f490d9fdac7
+
+
+    目录: G:\github\python\.git\objects\db
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            191 360e63918e43a2e7c3c78f054ac1a2c51f91c5
+
+
+    目录: G:\github\python\.git\objects\de
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34            120 050433345eba69313cefa0900208e4afa98156
+-ar---         2025/3/22     20:35             84 236173f39103759b24991dc9b4e678ad1e0ee2
+
+
+    目录: G:\github\python\.git\objects\e1
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            224 bae7af9977967b82e1d6bea7db9370f671b387
+
+
+    目录: G:\github\python\.git\objects\e6
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34             15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+
+    目录: G:\github\python\.git\objects\e8
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40          21870 918d9bdcd81673d8523d7dd697c5efaca3c631
+
+
+    目录: G:\github\python\.git\objects\eb
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40             75 3a7d635f4458ced1e9acb2d7e5db5f00bb9355
+-ar---         2025/3/23     10:40         869398 7a8e7fa0e0f9fa69887ed4f7d04312a73d5759
+
+
+    目录: G:\github\python\.git\objects\ed
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/22     20:34             84 42d00ce09a487be47a3345cc7cd429b59f813a
+
+
+    目录: G:\github\python\.git\objects\f5
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40            123 9c9503643d61182441e1a48fee9f27d3402754
+
+
+    目录: G:\github\python\.git\objects\f7
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40          15004 0150547fc4c323b7185c1951d67636425ff6d5
+
+
+    目录: G:\github\python\.git\objects\fb
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-ar---         2025/3/23     10:40           3634 811072535885db5028f6b44f3bc4a563584b65
+
+
+    目录: G:\github\python\.git\refs
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/23     10:40                heads
+d-----         2025/3/22     20:34                remotes
+d-----         2025/3/22     20:34                tags
+
+
+    目录: G:\github\python\.git\refs\heads
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/23     10:40             41 main
+
+
+    目录: G:\github\python\.git\refs\remotes
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2025/3/23     11:57                origin
+
+
+    目录: G:\github\python\.git\refs\remotes\origin
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2025/3/23     11:57             30 HEAD
+-a----         2025/3/23     11:57             41 main
